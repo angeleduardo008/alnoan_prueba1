@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "alnoan_store",
   "version": "1.0.0",
   "main": "index.js",
@@ -20,12 +19,5 @@
     "express-session": "^1.18.1",
     "jsonwebtoken": "^9.0.2",
     "mysql2": "^3.14.0"
-=======
-  "dependencies": {
-    "dotenv": "^16.4.7",
-    "ejs": "^3.1.10",
-    "express": "^4.21.2",
-    "express-session": "^1.18.1"
->>>>>>> d71acde7cbd82328e5d996b6a3c97d07ea50c588
   }
 }
